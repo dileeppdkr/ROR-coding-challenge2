@@ -1,5 +1,3 @@
-# ROR-coding-challenge2
-
 Springrole has a newsfeed page - similar it to Facebook posts or LinkedIn Posts - where a User can create a message Post. Others can Comment on the post. The skeleton models are provided above.
 
 The application will fetch posts from the newsfeed_controller. Presume that there are hundreds of posts per day. There may be a web app or mobile app or 3rd party consumer.
